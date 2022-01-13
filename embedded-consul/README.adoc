@@ -21,7 +21,7 @@
 
 Example spring configuration:
 
-.application.yml
+.bootstrap.yml
 [source,yaml]
 ----
 embedded:
